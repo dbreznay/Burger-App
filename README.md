@@ -6,15 +6,6 @@
 
   A burger loger app using MySQL, Node, Express, Handlebars and a homemade ORM. 
   
-  ### Table of Contents
-
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Contributors](#contributors)
-  * [License](#license)
-  * [Repository](#Repository)
-  * [Questions](#questions)
-
 
   ### App Screen Shots
 
