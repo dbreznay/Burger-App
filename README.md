@@ -9,7 +9,7 @@
 
   ### App Screen Shots
 
-  ![Photo]()   
+  ![Screen Shot 2020-08-26 at 8 10 31 PM](https://user-images.githubusercontent.com/60904436/91372142-7af43b80-e7d8-11ea-8ce9-5c87b782a4fa.png)   
   
 
   ### License
